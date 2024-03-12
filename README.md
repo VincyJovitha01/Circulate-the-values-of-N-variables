@@ -28,5 +28,5 @@ def circulate():
 ![Screenshot 2024-03-09 041720](https://github.com/VincyJovitha01/Circulate-the-values-of-N-variables/assets/147121113/813026fc-7f87-4845-91cc-298de1bfa019)
 
 ## Result:
-Thus the swapping of two values are successfully executed
+Thus the values are circulated successfully
 
