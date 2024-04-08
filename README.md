@@ -19,14 +19,18 @@ Print the list after circulating the elements
 End the program
 ## Program:
 ```
+#Program to Circulate the n variables using function concept
+#Developed by : Vincy Jovitha V
+#Register no : 212223230242
 def circulate():
     a=eval(input())
     x=int(input())
     print("After circulating the values are: {}".format(a[x:]+a[:x]))
+
 ```
 ## Output:
-![Screenshot 2024-03-09 041720](https://github.com/VincyJovitha01/Circulate-the-values-of-N-variables/assets/147121113/813026fc-7f87-4845-91cc-298de1bfa019)
+![alt text](<Screenshot 2024-04-08 094444.png>)
 
 ## Result:
-Thus the values are circulated successfully
+Thus the values are circulated successfully.
 
