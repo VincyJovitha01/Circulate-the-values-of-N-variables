@@ -29,7 +29,7 @@ def circulate():
 
 ```
 ## Output:
-![alt text](<Screenshot 2024-04-08 094444.png>)
+![alt text](exp2.png)
 
 ## Result:
 Thus the values are circulated successfully.
